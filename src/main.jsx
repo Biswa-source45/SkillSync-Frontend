@@ -5,7 +5,7 @@ import "./index.css";
 import { RouterProvider } from "react-router-dom";
 import { Provider, useDispatch } from "react-redux";
 import store from "./redux/store.js";
-import Router from "./routes/router.jsx";
+import Router from "./routes/Router.jsx";
 
 import {
   refreshToken as refreshTokenAPI,
