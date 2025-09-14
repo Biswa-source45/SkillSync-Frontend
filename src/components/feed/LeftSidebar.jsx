@@ -11,7 +11,7 @@ const LeftSidebar = () => {
       shadow-lg
       p-2
       md:py-6 md:px-4
-      space-y-6 border-1
+      space-y-6
       ">
       <ProfileCard />
       <InsightsCard />
